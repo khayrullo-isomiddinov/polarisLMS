@@ -32,7 +32,7 @@ A sleek and modern **Learning Management System** built with Laravel 12 and Tail
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/khayrullo-isomiddinov/polarislms.git
+git clone https://github.com/khayrullo-isomiddinov/polarisLMS.git
 cd lms
 
 composer install
